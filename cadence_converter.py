@@ -1,5 +1,17 @@
 """
-Ben Ma
+Author: Ben Ma
+
+This program, like caster.py, can be used in two ways:
+    a) You can use the function findTonicNum in other programs to
+    quickly find the tonic note fo a song (or any sequence of chords).
+    b) When executed, this program takes in a file containing one or more songs
+    and, using the calculated tonic note of each song, casts it from letter notation
+    (i.e. Am, C, Bdim, etc.) to Roman Numeral cadence notation (i.e. iv, I, V7, etc.)
+    This is useful if you want to do any sort of analysis independent of key.
+    The resulting casted songs are output to a text file.
+    Note: if a chord is not one of the standard cadences for its key
+    (i.e. its root note is 1, 3, 6, 8, or 10 semitones above the tonic note),
+    this caster will leave it in semitone form. (e.g. 'w8' or 'w1m' or 'w10dim')
 
 Overall pseudocode:
 1. open file
@@ -29,6 +41,12 @@ Steps to find Roman Numeral:
 
 """
 
+#variables for you to change for your needs
+inputFile = 'sample_cadence_converter_input.txt'
+outputFile = 'sample_cadence_converter_output.txt'
+#if you're inputting more than one song, put the delimiting string that differentiates between songs here
+songDelimiter = "| | S O N G M A R K E R | |"
+
 import caster
 
 def findTonicNum(songChords, keyTable): #songChords is a list, keyTable is a list of lists
@@ -51,9 +69,6 @@ def findTonicNum(songChords, keyTable): #songChords is a list, keyTable is a lis
             maxKey = i
     return maxKey #return key with most matches for the chords in the song
 
-#global scope variables
-noteNums = [('C#', 1), ('D#', 3), ('F#', 6), ('G#', 8), ('A#', 10), ('C', 0), ('D', 2), ('E', 4), ('F', 5), ('G', 7),
-            ('A', 9), ('B', 11)]  # have to check the sharps first so it doesn't switch 'C#' into 'w0#'
 
 # read in cadence casting table
 with open('cadence_casting_UTF-8.txt', 'r') as f:
@@ -81,8 +96,8 @@ print(keyTable) # test to make sure we've read table correctly
 #read in chords from file, song by song
 #split is by "  | | S O N G M A R K E R | |", and it starts with lyrics and the songmarker is AFTER each song
 
-with open('chords_uku_english_only_songmarkers.txt', 'r') as f:
-    with open('cadences_uku_english_only_songmarkers.txt', 'w') as out:
+with open(inputFile, 'r') as f:
+    with open(outputFile, 'w') as out:
         curLine = f.readline()
         while (curLine!=""):
             #--STAGE 0: RESET--
@@ -92,8 +107,8 @@ with open('chords_uku_english_only_songmarkers.txt', 'r') as f:
             songmarker = ""
 
             #--STAGE 1: READING SONG--
-            if (curLine!="\n" and curLine.find("| | S O N G M A R K E R | |")==-1):
-                while(curLine.find("| | S O N G M A R K E R | |")==-1): #while we're not at the Songmarker
+            if (curLine!="\n" and curLine.find(songDelimiter)==-1):
+                while(curLine.find(songDelimiter)==-1): #while we're not at the Songmarker
                     lineChords = curLine.split()
                     for chord in lineChords:
                         origChords.append(chord)
@@ -114,7 +129,7 @@ with open('chords_uku_english_only_songmarkers.txt', 'r') as f:
                 for origChord in origChords:
                     origChord = caster.makeFlatsSharps(origChord)
                     # shift numeral chord to relative to C (w0)
-                    numChords.append(caster.shiftNumChord(caster.letterChordToNumChord(origChord, noteNums),-tonicNum))
+                    numChords.append(caster.shiftNumChord(caster.letterChordToNumChord(origChord),-tonicNum))
 
                 #cast to correct interval based on semitones
                 #we convert each chord to its interval notation (e.g. V, vi, I, etc.)

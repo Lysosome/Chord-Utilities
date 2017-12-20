@@ -1,9 +1,20 @@
 import re
+"""
+author: Ben Ma
 
-#author: Ben Ma
-#possibly helpful library: music21 http://web.mit.edu/music21/
+This program can be used in one of two ways:
+    a) you can use it as a library with several helpful functions in it for other
+    chord processing tasks, such as the ability to make flats sharps, transpose
+    chords a certain number of semitones, etc.
+    b) when executed, this file itself opens an input text file and identifies all the chords
+    using regular expressions.  then, it simplifies chords and puts them into one of four types:
+    major, minor, diminished, or seventh.  For example, "G7sus4" is simplified to "G7".
+    All the conversions can be seen and edited in the file "chord_casting_UTF-8.txt".
+    At the end, all chords will be stored in list "castedChords"
+"""
 
-
+#variables for you to change for your needs
+textFileToOpen = 'sample_big_text_file_with_chords.txt'
 
 def nm(name, x):  # named capture group
     return r'(?P<' + name + '>' + x + r')'
@@ -11,7 +22,7 @@ def nm(name, x):  # named capture group
 
 def numChordToLetterChord(numChord):
     noteNums = [('C#', 1), ('D#', 3), ('F#', 6), ('G#', 8), ('A#', 10), ('C', 0), ('D', 2), ('E', 4), ('F', 5),
-                ('G', 7), ('A', 9), ('B', 11)]
+                ('G', 7), ('A', 9), ('B', 11)] #have to check the sharps first so it doesn't convert D# into w2#, leaving out the sharp.
     letterChord = numChord
     i=0 #have to use a while loop bc len(letterChord) is changing
     while i < len(letterChord):  # for each letter in the letterChord
@@ -20,9 +31,9 @@ def numChordToLetterChord(numChord):
             #if the next digit is a 1 look for the next digit being 0 or 1 (i.e., 10 or 12)
             if letterChord[i+1]=='1' and i<len(letterChord)-2 and \
                 (letterChord[i+2]=='0' or letterChord[i+2]=='1'):
-                selectionSize=3;
+                selectionSize=3
             else:
-                selectionSize=2;
+                selectionSize=2
             wdigit = int(letterChord[i+1:i+selectionSize])
             for note in noteNums:
                 if note[1]==wdigit:
@@ -32,9 +43,9 @@ def numChordToLetterChord(numChord):
         i+=1
     return letterChord
 
-def letterChordToNumChord(letterChord,noteNums):
+def letterChordToNumChord(letterChord):
     noteNums = [('C#', 1), ('D#', 3), ('F#', 6), ('G#', 8), ('A#', 10), ('C', 0), ('D', 2), ('E', 4), ('F', 5),
-                ('G', 7), ('A', 9), ('B', 11)]
+                ('G', 7), ('A', 9), ('B', 11)] #have to check the sharps first so it doesn't convert D# into w2#, leaving out the sharp.
     numChord = letterChord
     for note in noteNums:  # for each note C, C#, D, ...
         for i in range(0, len(numChord)):  # for each letter in the numChord
@@ -83,13 +94,13 @@ def shiftNumChord(origChord, shift):
 
 if __name__ == "__main__":
     #read in text file with chords
-    with open('chords_and_lyrics_UTF-8.txt', encoding="utf8") as f:
+    with open(textFileToOpen) as f:
         fullText = f.read()
         print("Opened Chords and Lyrics file")
     print(fullText[0:100]); #test
     
     #read in chord casting table
-    with open('chord_casting_UTF-8.txt', encoding="utf8") as f:
+    with open('chord_casting_UTF-8.txt') as f:
         inputs=[]
         outputs=[]
         exploLine=[]
@@ -151,14 +162,12 @@ if __name__ == "__main__":
     
     #make a new list with the cast of each chord, using the table, and count the amount of each chord
     castedChords = []
-    #have to check the sharps first so it doesn't switch 'C#' into 'w0#'
-    noteNums = [('C#',1),('D#',3),('F#',6),('G#',8),('A#',10),('C',0),('D',2),('E',4),('F',5),('G',7),('A',9),('B',11)]
     
     
     for origChord in origChords:
         #example of process: E/C# -> w4/w1 -> w0/w9 (store shift as 4) -> C/A -> Am -> w9m -> w1m -> C#m
         #convert origChord to numeral version
-        tempChord = letterChordToNumChord(origChord,noteNums)
+        tempChord = letterChordToNumChord(origChord)
         #shift numeral chord to C numeral version
         if tempChord[1]=='1' and len(tempChord)>2 and \
             (tempChord[2]=='0' or tempChord[2]=='1'):
@@ -168,7 +177,7 @@ if __name__ == "__main__":
         shift = rootNum
         tempChord = shiftNumChord(tempChord, -shift)
         #convert C numeral version to C letter version
-        tempChord = numChordToLetterChord(tempChord,noteNums)
+        tempChord = numChordToLetterChord(tempChord)
         #cast C letter version using table
         for chord in castingTable:
             if tempChord == chord[0]:
@@ -182,4 +191,4 @@ if __name__ == "__main__":
         tempChord = numChordToLetterChord(tempChord)
         print('Converted '+origChord+' to '+tempChord)
         castedChords.append(tempChord)
-    print('Finished!')
+    print('Finished! All chords stored in list castedChords.')

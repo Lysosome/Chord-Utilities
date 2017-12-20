@@ -1,0 +1,3177 @@
+﻿Nuclear
+Ryan Adams
+ 
+Intro:  / G - G/E -
+/ Cadd9 - - - / x2 w/high arpeggio 
+            / G -
+G/E - / Cadd9 - - - / x4 w/high arpeggio 
+                                                             &
+slide lick
+ 
+w/low arpeggio:
+G (½)  G/E (½)    Cadd9     
+                 G (½)  G/E (½)  Cadd9
+This           is
+where the summer ends
+         G (½)  G/E (½)   
+Cadd9                       G (½)  G/E (½)  Cadd9
+In a flash of pure destruction, no one wins
+ 
+w/low arpeggio & distortion:
+           G (½)  G/E (½)    Cadd9     
+G (½)  G/E (½)  Cadd9
+Goin’ nuclear.                           
+Nuclear.
+w/low arpeggio & slide lick:
+         G (½)  G/E (½)    Cadd9                 G (½)  G/E (½)  Cadd9
+The violets in my          eyelids goin'
+red
+ 
+w/distortion:
+C5 (2)              G (2)
+Sentimental geek
+C5 (2)                               G (2)
+      Shut up and go to sleep
+
+/ G - G/E - / Cadd9 - - - / x2 w/low arpeggio &                       
+                                                     distortion
+/ G - G/E - / Cadd9 - - - / x4 w/high arpeggio 
+                                                     & slide
+lick
+ 
+w/low arpeggio:
+          G (½)  G/E (½)    Cadd9                       G (½)  G/E (½)  Cadd9
+They comb           the beach and the
+remains
+            G (½)  G/E (½)    Cadd9                       G (½)  G/E (½)  Cadd9
+Of the bathing suits and Porsches all in flames
+ 
+w/low arpeggio & distortion:
+           G (½)  G/E (½)    Cadd9     
+G (½)  G/E (½)  Cadd9
+Goin’ nuclear.                           
+Nuclear.
+w/low arpeggio & slide lick:
+         G (½)  G/E (½)      Cadd9                              G (½)  G/E (½)  Cadd9
+When I saw her and the Yankees lost to the Braves
+ 
+ 
+ 
+ 
+ 
+w/distortion:
+C5 (2)                G (2)
+Sentimental geek
+C5 (2)                G (2)
+Sentimental geek
+C5 (2)                G (2)
+Sentimental geek
+C5 (2)                                 G (2)
+      Shut up and go to sleep
+
+                 
+Em      C
+Give me an answer
+                 
+G        D
+Give me an answer
+                 
+Em      C
+Give me an answer
+                 
+G        D
+Give me an answer
+                 
+Em      C   G  D
+Give me an out
+                 
+Em      C   G  D
+Give me an out
+ 
+C5 x4Dude Looks Like a Lady
+Aerosmith
+
+    
+     
+    
+  
+Main Riff: / A – G A / D – Dsus4 D /
+ 
+Dude looks like a lady
+Dude looks like a lady
+Dude looks like a lady
+Dude looks like a lady
+
+
+Cruised into a bar on the
+shore
+Her picture graced the grime on the door
+She a long lost love at first bite
+Baby maybe you're wrong
+but you know it's all right
+That's right
+
+
+Backstage we're having the
+time
+Of our lives until somebody say
+Forgive me if I seem out of line
+Then she whipped out her gun
+And tried to blow me away
+
+Dude looks like a lady
+Dude looks like a lady
+Dude looks like a lady
+Dude looks like a lady
+
+So never judge a book by it's cover
+Or who you gonna love by your lover
+Love put me wise to her love in disguise
+She had the body of a venus
+Lord imagine my surprise
+
+Dude looks like a lady
+Dude looks like a lady
+Dude looks like a lady
+Dude looks like a lady
+ 
+ 
+
+Bridge 1:
+A                  G        A   
+F (x1)
+(Baby let me follow you down)
+Let me take a peek dear
+A                  G         A  
+F (x1)
+(Baby let me follow you down)
+Do me, do me, do me, all night
+A                  G         A   
+F (x1)
+(Baby let me follow you down)
+Turn the other cheek dear
+D                   C       D    
+E (x1)  G (x1)
+(Baby let me follow you down)
+Do me, do me, do me, do me
+
+ 
+Solo (main riff x8)
+ 
+
+Bridge 2 Riff:  / E - D 
+E /
+
+
+Ooh what a funky lady
+She like it like it like it like that
+Ooh he was a lady
+ 
+/ E - D  E / - G (hold) - - / -
+- - - 
+Yeow, yi, yi, yi, yi, yi, yi, yi, yi
+
+ 
+w/Main Riff:
+Dude looks like a lady
+Dude looks like a lady
+Dude looks like a lady
+Dude looks like a lady
+Dude looks like a lady
+Dude looks like a lady
+Dude looks like a lady
+Dude looks like a lady
+Dude, dude, dude, dude looks like a lady
+Dude, dude, dude, dude looks like a lady
+Dude, dude, dude, dude looks like a lady
+Dude, dude, dude, dude looks like a lady
+Yeow, yi, yi, yi, yi, yi, yi, yi
+yeow, yeow, yi, yi, yi, yi, yi, yi, yi, yi
+Yea!Beautiful
+Christina Aguilera
+
+  
+   
+  
+
+
+
+
+Strum Patterns
+
+
+
+Main Strum:  D B D B D B D B
+             1 + 2 + 3 + 4 +
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+Punk Strum:  D D D D D D D DU
+             1 + 2 + 3 + 4 +
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+
+
+ 
+
+
+
+Chord
+  Guide
+
+
+
+
+         132
+D:    xx0232
+
+           134
+Dsus4:  xx0233
+
+         213
+D7:   xx0212
+
+           214
+D7sus4: xx0213
+
+
+
+
+        1 2 3
+Bm7:   x20202
+(substitute for Bm)
+
+      1  23
+Gm:   3x033x
+
+       12
+Em:   022000
+
+
+
+
+
+ 
+ 
+Intro:  / D - -
+Dsus4 / D7 - - D7sus4 / Bm - - - / Gm - - - / 
+x2
+ 
+Verse1:
+[D                  
+Dsus4]    [D7         D7sus4]
+    Every day is
+so          wonderful
+               
+Bm                     Gm 
+And suddenly, it's hard to breathe
+[D                  
+Dsus4]  [D7         D7sus4]
+      Now and then, I
+get   insecure
+                 
+Bm                  Gm
+From all the pain, I'm so ashamed
+ 
+Chorus:
+G                           Em
+I am beautiful, no matter what they say
+D (½)            D7 (½)      
+Bm
+Words can't bring me down
+G                      
+Em
+I am beautiful, in every single way
+        D (½)           D7 (½)    
+Bm
+Yes words can't bring me down, oh no
+Em
+So don't you bring me down, today
+ 
+/ D - - Dsus4 / D7 - - D7sus4 / Bm - - - / Gm - - - / 
+ 
+[D                            Dsus4]   [D7         D7sus4]
+    To all your
+friends, you're   delirious
+          Bm                      Gm
+So consumed in all your doom
+[D                       
+Dsus4] [D7         D7sus4]
+     Trying hard to
+fill the     emptiness
+                  
+Bm                         Gm
+The piece is gone, left the puzzle undone, ain't that the
+way it is
+ 
+Chorus2:
+G                           Em
+'Cause you are beautiful, no matter what they say
+D (½)            D7 (½)      
+Bm
+Words can't bring you down, oh no
+G                           Em
+You are beautiful, in every single way
+D (½)            D7 (½)       Bm
+Yes words can't bring you down, oh no
+Em
+      So don't you
+bring me down, today
+ 
+w/punk strum:
+D                                   D7
+    No matter what we
+do,    no matter what they say
+Bm                                                     Gm
+     When the sun
+comes shining through     Then the
+clouds won't stay
+D                                   D7
+    And everywhere we
+go,  the sun won't always shine
+Bm                                      Gm
+But tomorrow will find a way   on
+the other side
+ 
+Chorus3:
+G                                      Em
+'Cos we are beautiful, no matter what they say
+         D (½)            D7 (½) 
+Bm
+Yes words won't bring us down
+G                              Em
+   We are beautiful,
+in every single way
+         D (½)         D7 (½)    
+Bm
+Yes words can't bring us down
+Em (hold)
+So don't you bring me down 
+ 
+Resume main strum:
+/ D - - Dsus4 / D7 - - D7sus4 / Bm - - - / Gm - - - /
+today                                                             Don't
+you bring me down
+ 
+/ D - - Dsus4 / D7 - - D7sus4 / Bm - - - / Gm (hold) /
+(tacet) /
+today                                                         Don't you
+bring me down
+ 
+/ D - - Dsus4 / D (hold) /
+todayDirty
+Little Secret
+All-American Rejects
+ 
+Capo 3 (originally played w/power chords and no capo--this is an easier,
+open-chord version)
+ 
+Intro (w/intro riff):   
+/ G - - - / F - - - / x4
+                                     / F - - - /
+ 
+G             
+D                              Em                 C
+Let me know that I've done wrong    When I've known this all along
+G                 
+D                   Em           C
+    I go around a time or two  Just to waste my time with you
+
+Pre-Chorus:
+Am (2)                                                Em (2)
+     Tell me all that
+you've thrown away  Find out games you
+don't wanna play
+C (2)                   D (2)
+You are the only one that needs to know
+
+
+Chorus:
+G                       C                        Em                     D
+I'll keep you my dirty little secret (Dirty little secret)  Don't tell any-
+G                       C                        Em                           D
+one or you'll be just
+another regret (Just another regret, hope that you can keep it)
+      C (2, hold second measure)
+My dirty little
+secret--Who has to know?
+
+ 
+G               
+D                          
+Em            C
+   When we live such fragile lives   It's the best way we survive
+G               
+D                    Em          C
+   I go around a time or two  Just to waste my time with you
+
+Pre-Chorus and Chorus
+
+Em (2)                             C (2)
+The way she feels inside    Those
+thoughts I can't deny  
+Em (2)                                   C (2)
+These sleeping dogs won't lie     And all I've tried to hide
+     G/B (2)                      Am (2)
+It’s eating me apart  
+Trace this life out
+ 
+Solo:  / G
+- - - / F - - - / x4
+
+G                      
+C                        Em                     D
+I'll keep you my dirty little secret (Dirty little secret)  Don't tell any-
+G                      
+C                        Em                           D
+one or you'll be just another regret (Just another regret)
+G                      
+C                        Em                     D
+I'll keep you my dirty little secret (Dirty little secret)  Don't tell any-
+G                      
+C                        Em                             D
+one or you'll be just another regret (Just another regret,
+hope that you can keep it)
+       C                        D                        Em                    F (hold)
+My dirty little secret  
+Dirty little secret  Dirty little
+secret--Who has to know?
+
+
+w/intro riff:
+/ G - - - / F - - - / G - - - / F - - - D (hold) /It Ends Tonight 
+All-American Rejects
+ 
+
+
+Chord
+  Guide
+  
+
+
+
+       
+  231
+Am:  
+  x02210
+
+     
+  3    4
+G:   
+  3x0003
+
+        
+  231
+  Dm:  
+  xx0231
+
+      
+  231
+  E:   
+  022100
+
+
+
+
+     
+  134211
+F:   
+  133211
+
+      
+  32 1
+  C:   
+  x32010
+
+       
+  231
+  Am/E 
+  002210
+
+     
+  T  132
+D/F#:
+  2x0232
+
+
+
+
+      
+  1   3
+G/B: 
+  x20003
+
+ 
+  
+ 
+  
+ 
+  
+
+
+ 
+
+
+Strum
+  Guide
+  
+
+
+
+Main
+  Strum (use unless otherwise noted):
+ 
+D
+  D D D D D D DU
+1
+  + 2 + 3 + 4 +
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+Distortion
+  Strum:
+  B
+  B D   B B D
+1
+  + 2 + 3 + 4 +
+ 
+B
+  = Muted Bass Note
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+
+
+ 
+ 
+Intro (w/main strum): / Am - - - / G - - - / F - - - / G
+- - - /
+ 
+(one strum per chord):
+Am                    F
+   
+   Your subtleties, they strangle me
+Dm                E
+   
+     I can't explain myself at all.
+Am                          F
+   
+     And all that wants, And all that needs
+Dm               E
+   
+   All I don't want to need at all.
+ 
+Pre-Chorus (resume main strum):
+F (2)
+   The walls start breathing, my mind's 
+     C (2)
+unweaving, maybe it's best you leave me 
+    F                      Am/E
+   
+alone.  A weight is lifted on this 
+Dm (2)
+evening.  I give the final blow.
+ 
+
+Chorus 1:
+           C                       F    
+When darkness turns to
+light,
+                   Am              G    
+It ends tonight, it ends
+tonight.
+
+ 
+(w/distortion strum):
+Am                  F
+   
+     A falling star, at least I fall alone
+Dm                 E
+   
+      I can't explain what you can't explain
+Am                          F
+   
+     You're finding things that you didn't know
+Dm              E
+   
+    I look at you with such disdain 
+ 
+Pre-Chorus
+ 
+
+Chorus 2:
+           C                       F    
+When darkness turns to
+light,
+                   Am              G    
+It ends tonight, it ends
+tonight.
+           C                       F    
+Just a little insight will
+make this right
+                     Am                G    
+It's too late to fight, It
+ends tonight,
+             Am    
+It ends tonight.
+
+ 
+ 
+Bridge:
+             G    
+Now I'm on my own side
+D/F#                F
+   
+It's better than being on your side
+Am      G/B                    
+It's my fault when you're blind, 
+D/F#                 F
+   
+It's better that I see it through your eyes
+Am/E           F                    Dm
+All these thoughts locked inside
+                         G
+Now you're the first to know
+ 
+Chorus x2
+ 
+End on Am
+ Swing, Swing
+All-American Rejects
+ 
+
+Main Strum:
+    D D     D
+1 + 2 + 3 + 4 +
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+ 
+Punk Strum:
+D D D D D D D D 
+1 + 2 + 3 + 4 + 
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+ 
+Bridge Strum (E5 and G5/F# only)
+D D
+1 + 2 + 3 + 4 +
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+ 
+Intro:
+(w/main strum): / G5 -
+- - / G5/F# - - - / E5 - - - / C5 - - - / x2
+(w/punk strum): / G5 -
+- - / G5/F# - - - / E5 - - - / C5 - - - / x2
+ 
+Verse (w/main strum):
+G5                       
+Days swiftly come and go,
+I'm dreaming of her
+E5                         C5
+She's seeing other guys,
+emotions astir
+G5               
+The sun is gone, the
+nights are long
+E5            C5
+And I am left while the
+tears fall
+ 
+
+Pre Chorus (w/punk strum):
+G5                                    
+E5            C5
+Did you think that I would cry on the phone
+G5                                    
+E5            C5
+Do you know what it feels like being alone
+Bm          C (x2)
+I'll find someone new
+ 
+Chorus:
+G5                                    
+G5/F#
+Swing, swing, swing from the tangles of
+     E5                            C5
+My heart is crushed by a former love
+G5         G5/F#   E5     C5
+Can you help me find a way to carry on again
+
+ 
+Verse (w/main strum):
+G5
+Wish cast into the sky,
+I'm moving on
+E5                            C5
+Sweet beginnings do arise,
+she knows I was wrong
+G5
+The notes are old, they bend
+they fold
+E5     C5
+so do I to a new love
+ 
+Pre-Chorus and Chorus
+ 
+Solo: / G5 - - - / G5/F# - - - / E5 - - - / C5 - - -
+/ x2
+ 
+Bridge:
+E5    G5/F#
+Bury me
+G                         Gsus4
+You thought your problems
+were gone
+E5     G5/F#
+Carry me
+C5 (x2)
+Away, away, away
+ 
+Chorus x 2
+ 
+G (hold)All-Time Quarterback (Ben Gibbard) - "Sock Hop" Tabs
+Cool early demo from Ben Gibbard's pre-Death Cab For Cutie days.
+
+
+Click the button to the left to download the Guitar Pro Tab.
+You'll need Guitar Pro installed in order to view it.
+
+
+
+
+
+
+
+
+
+
+E ||---------------------------|----------------------------|
+B ||---------------------------|----------------------------|
+G ||o--------------------------|----------------------------|
+D ||o5-----5-----5-----5-------|--5-----5-----5-----5-------|
+A ||-3-----3-----3-----3-------|--0-----0-----0-----0-------|
+E ||---------------------------|----------------------------|
+
+
+----------------------------|---------------------------||
+----------------------------|---------------------------||
+--5-----5-----5-----5-------|--5-----5-----7-----7-----o||
+--3-----3-----3-----3-------|--0-----0-----5-----5-----o||
+----------------------------|---------------------------||
+----------------------------|---------------------------||
+
+
+----------------------------|----------------------------|
+----------------------------|----------------------------|
+--4-----4--4--4-----4--4----|--9-----9--9--7--7--7-------|
+--2-----2--2--3-----3--3----|--7-----7--7--5--5--5-------|
+----------------------------|----------------------------|
+----------------------------|----------------------------|
+
+
+----------------------------|----------------------------||
+----------------------------|----------------------------||
+--4-----4--4--4-----4--4----|--2-----2--2--2--2--2-------||
+--2-----2--2--3-----3--3----|--0-----0--0--3--3--3-------||
+----------------------------|----------------------------||
+----------------------------|----------------------------||Melissa
+Allman Brothers
+ 
+
+Strum: D   D  UD D  UDU
+       1 + 2 + 3 + 4 +
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+ 
+
+
+Chord
+  Guide
+  
+
+
+
+      
+  231
+E:   
+  022100
+
+         
+  341
+  F#m11/E:
+  044200
+
+        
+  341
+  Emaj7: 
+  066400
+
+       
+  123
+  A:   
+  x02220
+
+
+
+
+     
+       231
+Bm(add4):x04430
+
+        
+  231
+  C#m:  
+  x06650
+
+          
+  23
+  D6(9):  
+  x07700
+
+         
+  32 
+  Cmaj7: 
+  x32000
+
+
+
+
+     
+   1333
+B:   
+  x2444x
+
+        
+  132
+D:   
+  xx0232
+
+ 
+  
+ 
+  
+
+
+
+
+Intro:  / E - - - / F#m11/E - - - / Emaj7 - - - / F#m11/E - - - /       
+
+E                   F#m11/E                         Emaj7   F#m11/E             
+
+     Crossroads           seem to come and go,              yeah
+E                                             F#m11/E                         
+   The gypsy flies from coast to coast
+A (½)   
+        Bm(add4) (½)  C#m (½)   D6(9) (½)
+   Knowing many, loving      none
+E (½)     
+    F#m11/E (½)  Emaj7 (½)   F#m11/E (½)          
+   Bearing sorrow, having fun
+Cmaj7                                     B (hold)
+     But back home he'll always run
+                 E      F#m11/E    Emaj7   F#m11/E              
+To sweet Melissa 
+
+
+E                   F#m11/E                    Emaj7  
+F#m11/E
+   Freight train,     each car looks the same,         all the same
+E                                                F#m11/E
+   And no one knows the gypsy's name
+A (½)            Bm(add4) (½)  C#m (½)   D6(9) (½)
+      No one hears his lonely sigh
+E (½)                  F#m11/E (½)        Emaj7 (½)   F#m11/E (½)          
+    There are no blankets where he lies
+Cmaj7                                                B
+(hold)
+     Lord, in deepest dreams the gypsy flies
+                 E      F#m11/E    Emaj7   F#m11/E             
+
+To sweet Melissa
+ 
+
+Bridge:
+E
+  Again the morning’s come
+D
+   Again he's on the run
+A
+    Sunbeam shining through his hair
+B
+   Appearing not to have a care
+C#m                                           A        B (2, hold 2nd measure)
+       Pick up your gear and gypsy roll on,     roll on
+
+ 
+E                   F#m11/E                      Emaj7  
+F#m11/E
+    Crossroads,      will you ever let him go,        no, no
+E                                                   F#m11/E
+   Or will you hide the dead man’s ghost
+A (½)             Bm(add4) (½)  C#m (½)         D6(9) (½)
+     Or will he lie               beneath the plain
+E (½)                  F#m11/E (½)  Emaj7 (½)   F#m11/E (½)          
+      Or will his spirit                 float away
+Cmaj7                                         B (hold)
+           But I know that he won't stay
+                 E      F#m11/E    
+Without Melissa
+
+Cmaj7                                    B (hold)
+      Yes I know that he won't stay 
+               E      F#m11/E    Emaj7   F#m11/E
+Without Melissa
+
+
+End on E       Ramblin'
+Man
+The
+Allman Brothers
+ 
+Capo
+1
+ 
+
+
+Chord Guide
+  
+
+
+
+      3    4
+G:    3x0003
+
+      134211
+  F:    133211
+
+         132
+  D:    xx0232
+
+       32 1
+  C:    x32010
+
+
+
+
+       12
+Em:   022000
+
+ 
+  
+ 
+  
+ 
+  
+
+
+ 
+
+Strum: D   D U   U D U
+       1 + 2 + 3 + 4 +
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+ 
+ 
+Intro:
+/ G - - - / D - - - / C - - - / G - - - /
+ 
+
+Chorus 1:
+ G              
+F                       G (2)
+Lord, I was born a ramblin' man
+G                                         C               
+   D (2)
+Trying to make a living and doing
+the best I can
+C                         
+G            Em                     C
+When it's time for leaving, I hope
+you'll understand
+G                     D                     
+G (2)
+     That I was born a rambling man
+
+ 
+     
+G                  C                       G (2)
+My
+father was a gambler down in Georgia
+      
+G                          C                   D (2)
+He
+wound up on the wrong end of a gun
+      
+C                          G                 Em             C
+And
+I was born in the back seat of a Greyhound bus
+G             
+         D                
+G (2)
+   
+Rolling down highway forty-one
+ 
+
+Chorus 2:
+G              
+F                       G (2)
+Lord, I was born a ramblin' man
+G                                         C               
+   D (2)
+Trying to make a living and doing
+the best I can
+C                         
+G            Em                     C
+When it's time for leaving, I hope
+you'll understand
+G                     D                     
+G    D (hold)
+     That I was born a rambling man
+
+ 
+Solo:
+/
+G (hold)
+- -
+/ D (hold)
+- -
+/ C (hold)
+- -
+/ G (hold)- - /
+Instrumental
+Verse
+ 
+      
+G                    C                       G (2)
+I'm
+on my way to New Orleans this morning
+G                    
+ C                       D (2)
+Leaving
+out of Nashville, Tennessee
+             
+C                      G                                 Em    C
+They're
+always having a good time down on the bayou, Lord
+          
+G                 D                    
+   G (2)
+Them
+delta women think the world of me
+ 
+Repeat
+Chorus 1
+ 
+G              
+F                       G (2)
+Lord,
+I was born a ramblin' man
+G              
+F                       G (2)
+Lord,
+I was born a ramblin' man
+G              
+F                       G (2)
+Lord,
+I was born a ramblin' man
+G              
+F                       G (2)
+Lord,
+I was born a ramblin' man
+ 
+Jam
+on this progression:
+/ G - - - / F - - - / G - - - / - - - - / 
+ 
+End on GGreatest Time Of Year
+Aly and AJ
+ 
+Chords in parentheses are anticipated
+ 
+             F5                   (A#5)
+It's the greatest time of year, and it's 
+G5                  (C5)
+here,  Help me celebrate it
+        F5            (A#5)
+With everybody here, friends so 
+G5                  (C5)
+dear,  Let me simply state it
+            A#5 (2)                           
+  C5 (2)
+It's our favorite way to spend the holiday--Yeah
+
+
+Main Riff:  / F5 - - A#5 / - - - - / D5 - - C5 / - - (hold) / 
+
+                                    F5 (2)
+There's a special kind of feeling in the air
+                       A#5 (2)
+It only happens at this time of year
+                           D5 (2)
+When everyone is filled with love and cheer
+                              C5 (2)
+'Cause that's what matters
+
+                     F5 (2)
+Pretty paper boxes tied with bows
+                        A#5 (2)
+Walking in the sun or in the snow
+              D5 (2)
+We can feel the excitement 
+   C5 (2)
+growing, knowing
+ 
+
+Chorus:
+             F5                   (A#5)
+It's the greatest time of year, and it's 
+G5                  (C5)
+here,  Help me celebrate it
+        F5           
+(A#5)
+With everybody here, friends so 
+G5                  (C5)
+dear,  Let me simply state
+it
+F5                     (A#5)
+Joy to the world and everyone
+                   G5                
+      (C5)
+Lift up your hearts and feel the love
+            A#5 (2)                            C5 (2)
+It's our favorite way to
+spend the holiday--Yeah
+
+ 
+/ F5 - - A#5 / - - (hold)
+/
+
+                        F5 (2)
+We can get all cozy by the fire
+                        A#5 (2)
+Turn the music up a little higher
+                          D5 (2)
+I don't think that I could ever tire
+                  C5 (2)
+Of being together
+
+
+  D5               D5/C#             
+Decorate the tree, hang 
+         C5                     C5/B
+mistletoe and stand by me
+         A#5 (2)
+It's a picture perfect moment captured
+  C5 (2)
+Memories that we'll have after
+
+Chorus
+ 
+/ F5 - - A#5 / - - - - / D5 - - C5 / - - - - / x2
+
+
+It's the greatest time
+ 
+Breakdown:  / F5 - - - / - - - - / A#5 - - - / C5
+- - - /
+                     / F5 - - - / - - - - / A#5 - - - /
+C5 - - - /
+                     / A#5 - - - / - - - - / C5 - - - / -
+- - - /
+
+
+             F5                   A#5
+It's the greatest time of year, and it's 
+G5                  C5
+here,  Help me celebrate it
+        F5            A#5
+With everybody here, friends so 
+G5                  C5 (3)
+dear,  Let me simply state it
+Joy to the world
+Joy to the world
+                 F5      (G5)     A#5     (C5)  
+Joy to the world                                   It's the
+greatest 
+  F5      (G5)     A#5     (C5)  
+time             of year               
+
+Outro Chorus:
+             F5                   (G5)
+It's the greatest time of year, and it's 
+A#5                  (C5)
+here,  Help me celebrate it
+        F5            (G5)
+With everybody here, friends so 
+ 
+A#5                  (C5)
+dear,  Let me simply state it
+F5                     (G5)
+Joy to the world and everyone
+                   A#5                       (C5)
+Lift up your hearts and feel the love
+            F5           (G5)
+It's our favorite way to spend the 
+A#5  (C5)
+holiday--Yeah
+ 
+End on F5Horse With No Name
+America 
+ 
+
+
+Chord
+  Guide
+  
+
+
+
+      
+  12
+Em:  
+  022000
+
+     
+  1  2
+  D6/9:
+  200200
+
+ 
+  
+ 
+  
+
+
+ 
+
+           >       >
+Strum: B U D U B U D U    Partially mute bass strums
+with the
+       1 + 2 + 3 + 4 +    palm of your strumming
+hand.
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+ 
+ 
+Intro:  / Em - - - / D6/9 - - - / x2
+ 
+             Em                     D6/9
+On the first part of the journey
+           Em                 D6/9
+I was lookin at all the life
+                     Em                      D6/9
+There were plants and birds and rocks and things
+                    Em                        D6/9
+There were sand and hills and rings
+ 
+         Em                         D6/9
+The first thing I met was a fly with a buzz
+              Em                  D6/9
+and the sky with no clouds
+       Em                           D6/9
+the heat was hot and the ground was dry
+           Em                  D6/9
+but the air was full of sound
+ 
+Chorus
+       Em                                      D6/9
+I've been through the desert on a horse with no name
+          Em                          D6/9
+it felt good to be out of the rain
+           Em                   D6/9
+in the desert you can remember your name
+                     Em                   D6/9
+'cause there ain't no one for to give you no pain
+   Em    D6/9             Em    D6/9
+la la la  la lalala   la la  la  la la
+ 
+         Em                   D6/9
+After two days in the desert sun
+        Em                    D6/9
+my skin began to turn red
+           Em                   D6/9
+After three days in the desert fun
+           Em                      D6/9
+I was looking at a river bed
+               Em                  D6/9
+And the story it told of a river that flowed
+                 Em                      D6/9
+made me sad to think it was dead
+ 
+Chorus
+ 
+          Em                      D6/9
+After nine days I let the horse run free
+               Em                           D6/9
+'cause the desert had turned to sea
+                     Em                      D6/9
+there were plants and birds and rocks and things
+                  Em                      D6/9
+there were sand and hills and rings
+       Em                                D6/9
+The ocean is a desert with its life underground
+               Em                   D6/9
+and the perfect disguise above
+ Em                             D6/9
+Under the cities lies a heart made of ground
+             Em                         D6/9
+but the humans will give no love
+ 
+Chorus
+ 
+End on EmVentura Highway
+America
+ 
+
+
+
+Strum Guide
+
+
+
+
+Strum:
+  D   D DUM D M D     D DUM D M D   M = Mute
+       1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+
+
+ 
+
+
+
+Chord Guide
+
+
+
+
+      T 321
+G6:   3x5430
+
+           111
+Dmaj7:  xx0222
+
+         T 12
+Asus2/F#:2x2200
+
+        12 4
+Em7:   022030
+
+
+
+
+        
+  T341
+F#m7add4:244200
+
+
+
+
+
+
+
+
+
+ 
+w/main riff:
+/ G6 - - - / - - - -
+/ Dmaj7 - - - / - - - - / x2
+ 
+G6 (2)                                                                        
+Dmaj7 (2)
+Chewing on a piece of grass, walking down the road
+G6 (2)           
+                                 Dmaj7 (2)
+       Tell me, how
+long you gonna stay here, Joe?
+G6 (2)                                                      Dmaj7 (2)
+   Some people say
+this town don't look good in snow
+G6 (2)                              Dmaj7 (2)
+    You don't care, I
+know
+ 
+
+Chorus:
+G6 (2)                                           Dmaj7 (2)
+     Ventura Highway in the sunshine
+                    G6 (2)                                                                          
+Dmaj7 (2)
+Where the days are longer,
+the nights are stronger than moonshine
+G6 (2)                           
+Dmaj7 (2)     Asus2/F#
+(2)
+      You're gonna go, I know
+ 
+                 Em7                         F#m7add4
+'Cause the free wind is
+blowin' through your hair
+             Em7                        F#m7add4      
+And the days surround your
+daylight there
+  Em7               F#m7add4 
+
+Seasons crying no despair
+       Em7         F#m7add4  (2)   G6 (2)
+Alligator lizards in the
+air, in the air
+
+ 
+Dmaj7 (2)        
+           G6 (2)
+Doot-doot, doot-doot, doot-doot, doot-doot,
+Dmaj7 (2)                    
+Doot-doot, doot-doot, 
+ 
+   G6 (2)                                                Dmaj7 (2)
+Wishin' on a falling star, waitin' for the early train
+G6 (2)           
+                                    Dmaj7 (2)
+       Sorry boy, but
+I've been hit by purple rain
+G6 (2)                                                  Dmaj7 (2)
+    Aw, come on, Joe,
+you can always change your name
+G6 (2)                                         Dmaj7 (2)
+      Thanks a lot,
+son, just the same
+ 
+Chorus
+ 
+Dmaj7 (2)                    G6 (2)
+Doot-doot, doot-doot, doot-doot, doot-doot,   Repeat
+4x
+ 
+End on Dmaj7America - "Ventura Highway" Vocal Harmonies Tabs
+Here are the three vocal harmony parts for the chorus of “Ventura Highway”.
+
+
+Click the button to the left to download the Guitar Pro Tab.
+Note that you'll need Guitar Pro installed in order to view it.Roses
+Rani Arbo and Daisy Mayhem
+ 
+Capo 2
+ 
+
+
+Chord
+  Guide
+  
+
+
+
+      
+  32 1
+C:   
+  x32010
+
+     
+  134211
+  F:   
+  133211
+
+     
+  3    4
+G:   
+  3x0003
+
+       
+  2 1
+  Am7: 
+  x02010
+
+
+
+
+      
+  1   4
+G/B: 
+  x2x003
+
+       
+  231
+Am:  
+  x02210
+
+        
+  231
+  Dm:  
+  xx0231
+
+      
+  12
+  Em:  
+  022000
+
+
+
+ 
+
+Strum: B   D U B   D U
+       1 + 2 + 3 + 4 +
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+ 
+              C (3)                                                                        
+F
+On the streets of New York City, where the asphalt greets
+the sun,
+   F (3)                                   
+                          C (2)
+Morning slips in sideways like a cheetah on the run
+         C (3)                                                   
+     F
+She’s out there on the sidewalk, kneeling at her toil
+             G (2)                          
+     F (2)              C (2)
+Pulling weeds for Jesus, with her knuckles in the soil
+ 
+       C (3)                      
+                     F
+She is no St. Theresa.  She is no paragon.
+  F (3)                                              
+             C (2)
+Fingernails are dirty.  Her old blue jeans are worn.
+         C (3)                                                   
+                 F
+She doesn’t talk to strangers, she hardly knows you’re
+there.
+                    G (4)                          
+     
+She doesn’t want your money, she doesn’t want your prayers,
+because
+ 
+
+Chorus:
+   Am7 (½)  G/B (½)     C        Am7 (½)  G/B (½)     C
+This is      God's    dominion,
+this is peace on earth
+   Am7 (½)  G/B (½)   C                  F                          G
+This is     what she's put
+here for, this is what she's worth
+           F (½)    G (½)          C                F (½)   G (½)       Am
+All the other things that matter
+have slowly slipped away
+               
+F             C              F            C
+Now she grows her roses, she
+grows her roses,
+       Dm (½)    Em (½)      F (2)     
+C (2)
+and she         grows her
+roses all day.
+
+ 
+/ C - - - / - - - - /
+ 
+            C (3)                                              
+              F
+She remembers a young woman with hair as fine as gold
+             F (3)                                              
+                      C (2)
+She remembers all her lovers, and she remembers growing old
+            C (3)                                           
+               F
+She remembers meeting Jesus, she can’t recall the day,
+                      G (4)
+She gave him all her seeds of darkness, he buried them away,
+because
+ 
+Instrumental Verse
+ 
+/ Am7 - G/B - /
+ 
+               C (3)                            
+                                              F
+Now she coaxes hope from concrete, and she coaxes right from
+wrong,
+           F (3)                                              
+                   C (2)
+She makes the Spanish ladies break into their Spanish song
+              C (3)                                                   
+                   F (2)
+Well, at night they smell her roses in the streetlamp’s
+yellow sun
+                G (4)
+and they dream of summer dresses in the streets of old San
+Juan, because
+ 
+Chorus
+ 
+                  F             C             
+F            C
+Yeah, she grows her roses, she grows her roses,
+       Dm (½)    Em (½)      F (4)           
+C (3)
+and she       grows her  roses every day.
+ 
+End on CMakin' Whoopie - Capo 3
+Louis Armstrong
+ 
+Intro:  / C
+- Am - / Dm - G - / x2
+ 
+               
+C (½) A (½)             F (½) G (½)      
+C (½)  C7 (½)     
+F (½)  Dm (½)
+Another bride,    another June,    another
+sunny    honeymoon,
+                
+E7 (½)  A7 (½)      
+D7 (½) G7 (½)            C (½) Am (½) Dm (½) G (½)
+another season,    another reason    for
+makin’ whoopie.
+ 
+              
+C (½) A (½)      F (½) G (½)                 C (½)  C7 (½)            F (½)  Dm (½)
+A lot of shoes,   a lot of rice,   the
+groom is nervous, he answers twice,
+              
+E7 (½)  A7 (½)      
+D7 (½) G7 (½)               C (½) F (½) C (½) G (½)
+it’s really killing,   that he’s so willing,   
+to makin’ whoopie.
+ 
+Bbm                       F          
+Bbm                           C
+Now picture a little lovenest down where the
+roses cling,
+Bbm                              F         Bbm                             G7
+picture the same sweet lovenest, think what a
+year can bring.
+ 
+                      C (½) A (½)           F (½) G (½)            C (½) 
+C7 (½)         F (½) Dm (½)
+He’s washing dishes and baby clothes, he’s so ambitious, he even sews.
+                     E7 (½)  A7 (½)                    D7 (½) G7 (½)                 
+But don’t forget, folks,  that’s what you get, folks, from makin’ 
+      C (½) Am (½) Dm (½) G (½)
+whoopie.
+ 
+Instrumental Verse
+ 
+             
+C (½) A (½)       F (½) G (½)                C (½)  C7 (½)                    F (½)  Dm (½)
+Another year,  
+maybe less,     what’s this I
+hear?     Well, can’t you guess ? 
+                  
+E7 (½)  A7 (½)              D7 (½) G7 (½)              C (½) Am (½) Dm (½) G (½)
+She feels neglected    and he’s suspected      of makin’ whoopie.
+ 
+               C (½) A (½)               F (½) G (½)                C (½) 
+C7 (½)          F (½)  Dm (½)
+She sits alone     most every night,   he
+doesn’t phone,   he doesn’t write, 
+                  
+E7 (½) A7 (½)                D7 (½) G7 (½)               
+he says he’s
+busy,    but she says, “Busy?       He’s makin’ 
+      C (½) Am (½) Dm (½) G (½)
+whoopie.”
+ 
+Bbm                                      F     Bbm                        
+C
+Now he doesn’t make much money, only five
+thousand buck,
+Bbm                                      F           Bbm                    
+G7
+some judge, who thinks he’s funny, says. “You
+pay six to her!”
+ 
+                            C (½) A (½)             F (½) G (½)               C (½) 
+C7 (½)      F (½)  Dm (½)
+He says, “Now Judge,  suppose I fail ?”  Judge says, “Budge right into jail!   
+
+                 
+E7 (½)  A7 (½)              D7 (½) G7 (½)               C (½) Am (½) Dm (½) G (½)
+You better keep her,  
+I think it’s cheaper   than
+makin’ whoopie.
+ 
+C (½) Am (½) Dm (½) G (½)     (progression x2)       End on CHappy Birthday
+The Arrogant Worms
+ 
+Intro:  / G - - - / - - - - /
+ 
+G (2)
+Once a year we celebrate
+          C                     G
+With stupid hats and plastic plates
+         G (2)
+The fact that you were able to make
+              C                     G (hold)
+Another trip around the sun
+G (2)
+And the whole clan gathers round
+        C                       G
+And gifts and laughter do abound
+       G (2)
+And we let out a joyful sound
+       C                      G (hold)
+And sing that stupid song
+
+
+           G              C                            G (2)
+Happy birthday!  Now you're one year
+older!
+           G                   
+C                  G (2)
+Happy birthday!  Your life still isn't
+over!
+           G                    C                           G
+Happy birthday!  You did not accomplish
+much
+ G (2)
+But you didn't die this year
+    C                           G
+I guess that's good enough
+ 
+/ G - - - / - - - - /
+C - - - / G (hold)
+/
+
+     G (2)
+So let's drink to your fading health
+        C    
+                   G
+And hope you don't remind yourself
+         G (2)
+The chance of finding fame and wealth
+     C                         G (hold)
+Decrease with every year
+        G (2)
+Does it feel like you're doing laps
+        C                      G
+And eating food and taking naps
+         G (2)
+And hoping that someday perhaps
+        C                            G (hold)
+Your life will hold some cheer
+
+
+
+           G                      
+C                            G
+(2)
+Happy birthday!  What
+have you done that matters?
+           G                         C                  G (2)
+Happy birthday!  You're starting to get
+fatter
+           G                    C                        G
+Happy birthday!  It's downhill from now
+on
+   G (2)
+Try not to remind yourself
+         C                         G
+Your best years are all gone
+
+
+/ G - - - / - - - - /
+C - - - / G (hold)
+/
+ 
+       G (2)
+If cryogenics were all free
+          C                         G
+Then you could live like Walt Disney
+       G (2)
+And live for all eternity
+     C                  G (hold)
+Inside a block of ice
+ G (2)
+But instead your time is set
+       C               G
+This is the only life you get
+          G (2)
+And though it hasn't ended yet
+          C                         G (hold)
+Sometimes you wish it might
+
+
+           G                     C                            G (2)
+Happy birthday!  You wish you had more
+money
+           G                    C                      G (2)
+Happy birthday!  Your life's so sad it's
+funny
+           G                       C                           G
+Happy birthday!  How much more can you
+take?
+  G (2)
+But your friends are hungry
+            C                    G
+So just cut the stupid cake
+
+
+           G (2)                      A7 (2)
+Happy birthday!  Happy birthday!
+           C (2)         D7 (2)
+Happy birthday, dear...The Saddest Song
+The
+    Ataris
+ 
+All
+strings tuned down a whole step
+ 
+Intro:
+/ C - - - / - - - - / Am - - - / - - - - / 
+          / G - - - / - - - - / F - - - / - -
+- - /  (Whole Progression x2)
+ 
+C                         Am                         
+    Only two more days, until your 
+G                       F
+birthday,
+yesterday was mine
+C                          Am                         
+   You’ll be turning five I know what it’s 
+G                                          F
+like
+growing up without your father in your
+life
+ 
+
+Pre-Chorus:
+Am        G            C             F
+So I pretend, I’m doing all I can
+           Am                        G                  F
+And I hope someday you’ll find it
+in your heart
+Am           G            C             F
+To understand why I’m not around
+             Am                 G                  F
+And forgive me for not being in your life
+
+ 
+
+Chorus:
+                    C
+I remember waiting for you to come
+                   Am
+Remember waiting for you to call
+                   G                                         F
+Remember waiting there to find nothing at all
+                    C
+I remember waiting for you to come
+                   Am
+Remember waiting for you to call
+                   G                                         F
+Remember waiting there to find nothing at all
+
+ 
+(Repeat Intro)
+
+C                      Am    
+    Maybe someday you’ll really get
+to 
+  
+G                                      
+F
+know me, not just the
+letters read to you
+C                           Am
+   I pray I get the chance to make it up
+
+G                                 F
+to you--We got a lot of
+catching up to do
+
+(Repeat Pre-Chorus and Chorus)
+
+                    C
+I remember waiting for you to come
+Am                                   G   F
+      Waiting for you to call
+                    C
+I remember waiting for you to come
+                                 Forgive me
+ 
+Am                                     G
+      Waiting for you to call
+                       I’m so sorry
+F                                 C (hold)
+I will make it up to
+youLive And Die
+The Avett Brothers
+ 
+Capo 4, w/swing feel
+ 
+
+
+Chord
+  Guide
+  
+
+
+
+     
+  3    4
+G:   
+  3x0003
+
+      
+  12
+Em:  
+  022000
+
+      
+  32 1
+C:   
+  x32010
+
+      
+  13421
+Bm:  
+  x24432
+
+
+
+
+        
+  132
+D:   
+  xx0232
+
+      
+  231
+Am: 
+  x02210
+
+ 
+  
+ 
+  
+
+
+ 
+
+
+Strumming
+  Guide 
+  (play both patterns w/swing feel)
+
+
+
+
+Main
+  Strum:
+D  
+  D U   U D U
+1
+  + 2 + 3 + 4 +
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+Chorus
+  Strum:
+  B  
+  D U B   D U
+1
+  + 2 + 3 + 4 +
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+
+
+ 
+ 
+Intro: / G - - - /
+Em - - - / C
+- - - / G - - - /
+          
+/ G - - - / Bm - - - / C - - - / D - - - / - - - - /
+ 
+G                 
+ Bm            
+        C
+  G
+All it’ll take is just one moment, and
+G       
+          Em             
+          C    
+   D
+You can say goodbye to how we had it planned
+G              
+         Bm            
+      C    
+        G
+Fear like a habit, run like a rabbit, out and away
+G                
+            Em     
+     C   D
+Through the screen door to the unknown
+ 
+
+Pre-Chorus:
+      
+Em (2)
+And I want to love you
+and more
+Am (2)
+I want to find you and
+more
+    C        
+           G             
+    
+Where do you reside
+when you 
+ Bm   
+              C
+hide, How can I find
+you?
+ 
+          
+Em (2)
+‘Cause I want to send
+you and more
+Am (2)
+I want to tempt you
+and more
+  C        
+           G
+Can you tell that I am
+
+   Bm   
+          C
+(2)
+alive, Let me prove it
+
+ 
+
+Chorus 1:
+           
+G (½)       
+     Em (½)
+You and I, we're the
+same
+             
+Am (½)       
+   D (½)
+Live and die, we're
+the same
+               
+G (½)           
+     Em (½)
+Hear my voice, know my
+name
+            
+Am (½)       
+    D (2)
+You and I, we're the
+same
+
+ 
+ G                          
+ Bm                      C
+       G 
+Left like a pharaoh, Sing like a sparrow, anyway
+G       
+          Em             
+ C         D
+Even if there is no land, or love in
+sight
+         G              
+      Bm            
+      C    
+        G
+We bloom like roses, lead like Moses, out and away
+G                
+          Em     
+        C
+D
+Through the bitter crowd to the daylight
+ 
+       Em (2)
+And I want to love you and more
+Am (2)
+I want to find you and more
+  C        
+           G
+Can you tell that I am 
+   Bm              C
+(2)
+alive, Let me prove it to ya
+ 
+
+Chorus 2:
+           
+G (½)       
+     Em (½)
+You and I, we're the
+same
+             
+Am (½)           D
+(½)
+Live and die, we're
+the same
+         
+G (½)       
+   Em (½)
+You rejoice, I
+complain
+        
+          Am
+(½)    
+   D (½)
+But you and I, we're
+the same
+ 
+              
+G (½)       
+     Em (½)
+Live and die, we're
+the same
+           
+Am (½)          D
+(½)
+You and I, we're the
+same
+              
+G (½)       
+        Em (½)
+Hear my voice, know my
+name
+           
+Am (½)       
+  D (2)
+You and I, we're the
+same
+
+ 
+Solo: Instrumental Verse
+ 
+Repeat Pre-Chorus
+ 
+
+Chorus 3:
+           
+G (½)       
+     Em (½)
+You and I, we're the
+same
+             
+Am (½)         
+D (½)
+Live and die, we're
+the same
+      
+   G (½)       
+   Em (½)
+You rejoice, I
+complain
+                  
+Am (½)         
+D (½)
+But you and I, we're
+the same
+ 
+              
+G (½)       
+     Em (½)
+Live and die, we're
+the same
+           
+Am (½)          D
+(½)
+You and I, we're the
+same
+    
+          G (½)       
+        Em (½)
+Hear my voice, know my
+name
+           
+Am (2)       D
+(2)
+You and I, You and I
+
+ 
+/ G - - - / - C G (hold) - /
+ 
+End
+ 
+ 
+Travis-picking solo (arranged by Rob):
+ Paranoia In B Major
+Avett Brothers
+ 
+Capo 3
+ 
+
+
+Chord
+  Guide
+  
+
+
+
+     
+  3    4
+G:   
+  3x0003
+
+       
+  3    2
+Gmaj7: 
+  3x0002
+
+     
+  3    
+G6:  
+  3x0000
+
+     
+  3   4
+G5:  
+  3x003x
+
+
+
+
+       
+  231
+Am:  
+  x02210
+
+        
+  132
+  D:   
+  xx0232
+
+       
+  3 
+  Cmaj7:
+  x3xx0x
+
+      
+  321
+  C6: 
+   x3x2xx
+
+
+
+
+     
+  3
+C5: 
+  x3x0xx
+
+      
+  13421
+  Bm:  
+  x24432
+
+ 
+  
+ 
+  
+
+
+ 
+
+            >        >
+Strum: B U D U B U D U
+       1 + 2 + 3 + 4 +
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+ 
+Intro: / G - - - / Gmaj7 - - - / G6 - - - / G5 - - - /
+          / Am - - - / D - - - / Am - - - / D (hold) - - - /
+ 
+G                        Gmaj7                 G6
+I keep telling myself that it’ll be fine
+                                  G5                             Am   
+D
+You can’t make everybody happy all of the time
+G                          Gmaj7                         G6
+   But I find myself in a place that I never been
+                                       G5                      
+Am
+A place that I thought that I would never be
+D                                               G (2)
+   There’s people looking back at me
+ 
+G                              Gmaj7                G6
+   I keep having this dream I’m at a party
+                                                       G5
+
+There’s people throwing drinks and screaming 
+                         Am                D
+telling me that I don’t belong
+G                                     Gmaj7                         
+      G6
+     Lately life’s been the same I find this comfortable
+place
+                                             G5                                        
+
+With all my friends then my friends start telling me that
+        Am                D
+I’ve always been wrong 
+                                 G (2)
+I’m so tired of being wrong
+ 
+
+Interlude 1:
+/ G - - - / Gadd9 - - - /
+G - - - / Gmaj7 - - - /
+/ Cmaj7 - - - / C6 - - -
+/ C5 - - - / D - - - / - - - - /
+
+ 
+G                                           Gmaj7                           
+           G6
+   There was a time I could move there was a time I could
+breathe
+                                                     G
+Through crowded spaces filled with angry faces
+             Am                  D
+It didn’t once cross my mind
+G                                    Gmaj7                       G6
+    With paranoia on my heels will you love me still
+                                G                        
+                Am                     D
+when we awake and you find that the sanity has gone from my
+eyes? 
+ 
+
+Interlude 2:
+/ G - Am - / Bm - C - / 
+/ G - - - / Bm - - - / Am
+- - - / 
+/ G - Am - / Bm - C - / 
+
+ 
+/ G - - - / G (hold)
+- - - /
+ 
+G                  Gmaj7                        G6
+I got secrets from you, you got secrets from me
+                  G                              Am    D 
+Because you’re so worried about what I’m gonna think,
+                          G (2)
+Baby I’m worried too
+G                Gmaj7                            G6
+But if love is a game, girl, then you’re gonna win
+                          G                     Am  D
+I’ll spend the rest of my life bringing victory in
+               G G
+If you want me to. yeah!
+ 
+Repeat Interlude 2
+ 
+Repeat Interlude 1 x2
+ 
+End on G
+ 
+ 
+ 
+
+Interlude 1 Arrangement
+for Solo Guitar:Shame
+The Avett Brothers
+ 
+Capo 1 
+ 
+
+
+Chord
+  Guide
+  
+
+
+
+     
+  3    4
+G:   
+  3x0003
+
+       
+  231
+Am:  
+  x02210
+
+        
+  132
+  D:   
+  xx0232
+
+      
+  32 1
+  C:   
+  x32010
+
+
+
+
+     
+   13421
+Bm:  
+  x24432
+
+      
+  12
+  Em:  
+  022000
+
+       
+  123
+A:   
+  x02220
+
+ 
+  
+
+
+ 
+
+
+Strum
+  Guide
+  
+
+
+
+Bass-Strum:   
+     w/swing feel
+B  
+  D U B   D U   & alternating
+1
+  + 2 + 3 + 4 +   bass
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+Bridge
+  Strum:      Damp strings
+  D  
+  D   D   D      after each
+1
+  + 2 + 3 + 4 +    strum
+
+
+
+ 
+ 
+Play freely, one strum per chord:
+G                                    Am
+Okay so I was wrong about
+                                       D
+My reasons for us fallin’ out
+                                         G
+Of love I want to fall back in
+ 
+G                                         Am
+My life is different now I swear
+                                                D
+I know now what it means to care
+                                                    G
+About somebody other than myself
+ 
+G                                          Am
+I know the things I said to you
+                                              D
+They were untender and untrue
+                                             G
+I’d like to see those things undo
+ 
+G                                               Am
+So if you could find it in your heart
+                                         D
+To give a man a second start
+                                                    G
+I promise things won’t end the same
+ 
+
+Chorus:
+G                               C
+Shame, boatloads of shame
+                Am         
+         D
+Day after day, more of the
+same
+G                           C
+Blame, please lift it off
+                    Am               
+       D
+Please take it off, please
+make it stop
+
+ 
+G                                  Am
+Okay so I have read the mail
+                                    D 
+The stories people often tell
+                                     G
+About us that we never knew
+ 
+Start Bass-Strum:
+G                              Am
+But their existence will float away
+                              D 
+And just like every word they say
+                               G
+And we will hold hands as they fade
+ 
+Chorus
+ 
+Bridge:
+C                                   Bm
+   I felt so sure of everything
+                                       Em
+My love to you so well received
+                                              A
+And I just strutted around your town
+                                     C
+Knowing I didn’t let you down
+                                                 Bm
+The truth be known, the truth be told
+                                          Em
+My heart was always fairly cold
+                                      A
+Posing to be as warm as yours
+                                        C
+My way of getting in your world
+                                            D
+But now I’m out and I’ve had time
+                    
+To look around and think
+       C
+And sink into another world
+          D               
+That’s filled with guilt and overwhelming
+ 
+Chorus
+ 
+G                                      Am
+And everyone they have a heart
+                                              D
+And when they break and fall apart
+                                             G
+And need somebody’s helping hand
+ 
+G                                    Am
+I used to say just let ’em fall
+                                    D
+It wouldn’t bother me at all
+                                        G
+I couldn’t help them now I can
+ Slight Figure of Speech
+Avett Brothers
+ 
+Capo 2
+ 
+
+
+Chord
+  Guide
+  
+
+
+
+     
+  3    4
+G:   
+  3x0003
+
+      
+  32 1
+  C:   
+  x32010
+
+        
+  132
+  D:   
+  xx0232
+
+      
+  12
+  Em:  
+  022000
+
+
+
+ 
+
+Strum: D   D U   U D U
+       1 + 2 + 3 + 4 +
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+ 
+Intro:
+/ G (hold) -
+- / G (hold) - - / G (hold) - - / G (hold) - - /
+ 
+G (hold
+2)                                                                         C  
+    They say you're got to lose a couple fights to win 
+                  D                                   G
+It's hard to tell from where I'm sitting
+                      G (hold)                            
+C  
+They say that this is where the fun begins
+                   D                              G (2, hold 2nd measure)
+I guess it's time that I was quitting
+ 
+
+Chorus:
+Em            D
+     A slight figure of
+speech
+G                 C
+   I cut my chest wide open
+Em                          D
+     They come and watch us
+bleed
+G         C                              D
+(2)     
+    Is it art like I was hoping
+now?
+
+ 
+G (2, hold 2nd
+measure)                                                   C
+            They said "I hope that you will never
+change"
+                   D              G
+I went and cut my hair
+                        G (hold)                                  C
+They say "Don't take your business to the big
+time"
+                   D                 G (2, hold 2nd measure)
+I bought us tickets there
+ 
+Chorus
+ 
+
+Bridge:
+(w/G riff)
+What did you expect
+And what did you forget
+That to live you let go of
+me with each step
+It becomes a progression I
+won't let regret manifest
+To aggression
+Are you to assess what I've
+been? What I am? Or become?
+Did you stop to accept how
+pathetically dumb
+It can be to
+Attack those around 'cause
+you're
+True to color, a town, a
+time, or a place?
+It's not you, it's not mine
+And besides it is gone
+And you never will find it
+again
+But I don't want to fight
+I just ask let me be
+I won't give the chance to
+be my enemy
+So go home
+Think it through
+
+ 
+G (hold
+2)                                    C  
+        A jet plane and a big idea
+           D                G
+I jump over the sea
+          G (hold)                    
+C
+“What if’s” hot on my trail
+               D                         G (2, hold 2nd measure)
+But that can't catch me, no
+ 
+Chorus
+ 
+G Riff x8
+ 
+/ G (hold) -
+- / G (hold) - - / G (hold) - - /
+ 
+The EndAll My Mistakes
+The Avett Brothers
+ 
+Capo 1
+ 
+
+
+Chord
+  Guide
+  
+
+
+
+     
+  134211
+F:   
+  133211
+
+      
+  32 1
+  C:   
+  x32010
+
+      
+    32 
+  Cmaj7: 
+  x32000
+
+     
+  3    4
+G:   
+  3x0003
+
+
+
+
+     
+  3    1
+G7:  
+  3x0001
+
+ 
+  
+ 
+  
+ 
+  
+
+
+ 
+
+Strum: D   D U D U   w/swing feel
+       1 + 2 + 3 +
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+ 
+Intro: / F - - / - - - /
+          / C - - / Cmaj7 - - / F - - / - - - /
+          / G - - / - - - / G7 (hold) - - / - - - / 
+ 
+C                  Cmaj7             F
+Shooting off vicious collections of words
+       C                 Cmaj7       F
+The losers make fact by the things they have heard
+       C             Cmaj7     F       
+   G            G7  
+And I find myself trying hard to defend them
+ 
+C              Cmaj7         F
+I made decisions some right and some wrong
+      C               Cmaj7     F
+And I let some love go I wish wasn't gone
+    C                      Cmaj7     F                                 
+G        G7  
+These things and more I wish I had not done, But I've done
+ 
+
+Chorus:
+                       F                             
+C
+But I can’t go back, and I
+don’t want to
+                          
+F      G
+‘Cause all my mistakes    
+brought me to you
+
+ 
+/ C - - / Cmaj7 - - / F - - / - - - /
+/ G - - / - - - / G7 (hold)
+- - / - - - / 
+ 
+C                  Cmaj7                  F
+I have some friends they don't know who I am
+    C               Cmaj7    F
+So I write quotations around the word “friends”
+      C             Cmaj7       F                        
+            G        G7  
+But I have a couple that have always been there for me
+ 
+      C                      Cmaj7        F
+And I missed some fun 'cause I worked through the dawn
+     C                  Cmaj7     F
+Expecting your praise when I returned home
+      C              Cmaj7          F                   
+       G        G7  
+But I paid the cost 'cause I got left alone for the songs
+ 
+Chorus
+ 
+Instrumental:
+/ C - - / Cmaj7 - - / F - - / - - - / x2
+/ G - - / - - - / G7 - - / - - - / 
+ 
+Chorus
+ 
+/ C - - / Cmaj7 - - / F - - / - - - /
+/ F - - / - - - /
+ 
+End on CThe Ballad Of Love And
+Hate
+The Avett Brothers
+ 
+Capo 3
+ 
+
+
+Chord
+  Guide
+  
+
+
+
+      
+  32 1
+C:   
+  x32010
+
+     
+  3    4
+G:   
+  3x0003
+
+     
+  134211
+F:   
+  133211
+
+      
+  231
+Am: 
+  x02210
+
+
+
+ 
+
+
+       
+  B   D U D U
+  Strum: 
+  1 + 2 + 3 +
+Click Here toWatch Strum Video
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements	
+	$("a[id^='video_strum_pattern_']").each(function(i){
+		$(this).colorbox({iframe:false, innerWidth:593, innerHeight:360});
+	} );});
+
+
+
+
+ 
+ 
+ C (2)                    
+        G       
+     C (4)
+Love writes a letter and sends it to hate.
+       F
+(3)                               
+            C
+(4)
+My vacations ending. I'm coming home late.
+         F        
+       G         
+     C    
+            Am
+The weather was fine and the ocean was great
+          C           
+     G   
+       F (4)       
+and I can't wait to see you again.
+ 
+  C (2)                    
+            G       
+   C (4)
+Hate reads the letter and throws it away.
+   F (3)                               
+             C
+(4)
+"No one here cares if you go or you stay.
+   F        
+       G         
+      C       
+      Am
+I barely even noticed that you were away.
+      C           
+     G   
+        F
+(4) 
+I'll see you or I won't, whatever."
+ 
+ C (2)                    
+         G      
+                 C
+(4)
+Love sings a song as she sails through the sky.
+        F
+(3)                               
+             C
+(4)
+The water looks bluer through her pretty eyes.
+       F     
+         G      
+        C   
+         Am
+And everyone knows it whenever she flies,
+      C   
+     G   
+                F
+(4)
+and also when she comes down.
+ 
+  C (2)                    
+              G       
+                  C
+(4)
+Hate keeps his head up and walks through the street.
+ F (3)                               
+       C (4)
+Every stranger and drifter he greets.
+         F              
+        G   
+    C    
+       Am
+And shakes hands with every loner he meets
+           C     
+   G               F
+(4) 
+with a serious look on his face.
+ 
+ C (2)                    
+         G       
+   C (4)
+Love arrives safely with suitcase in tow.
+  F (3)                               
+                 C
+(4)
+Carrying with her the good things we know.
+     F      
+     G        
+    C     
+       Am
+A reason to live and a reason to grow.
+       C     
+    G           F
+(4) 
+To trust. To hope. To care.
+ 
+ C (2)                    
+       G       
+    C (4)
+Hate sits alone on the hood of his car.
+       F
+(3)                               
+               C
+(4)
+Without much regard to the moon or the stars.
+  F     
+G        
+   C      
+    Am
+Lazily killing the last of a jar
+              C     
+   G                  F
+(4) 
+of the strongest stuff you can drink.
+ 
+ C (2)                    
+  G       
+       C (4)
+Love takes a taxi, a young man drives.
+      F
+(3)                               
+            C
+(4)
+As soon as he sees her, hope fills his eyes.
+        F          
+   G          
+      C     
+       Am
+But tears follow after, at the end of the ride,
+               C           
+     G   
+        F
+(4) 
+‘cause he might never see her again.
+ 
+  C (2)                    
+        G      
+ C (4)
+Hate gets home lucky to still be alive.
+          F
+(3)                               
+              C
+(4)
+He screams o'er the sidewalk and into the drive.
+        F         
+     G          
+     C     
+      Am
+The clock in the kitchen says two fifty  five,
+             C           
+   G              F
+(4) 
+And the clock in the kitchen is slow.
+ 
+C (2)                    
+        G       
+      C (4)
+Love has been waiting, patient and kind.
+        F
+(3)                               
+               C
+(4)
+Just wanting a phone call or some kind of sign,
+              F           
+      G           
+        C     
+       Am
+That the one that she cares for, who's out of his
+mind,
+          C           
+   G              F
+(4) 
+Will make it back safe to her arms.
+ 
+  C (2)                    
+           G       
+        C (4)
+Hate stumbles forward and leans in the door.
+   F (3)                               
+     C (4)
+Weary head hung, eyes to the floor.
+       F    
+               G        
+     C         
+              Am
+He says "Love, I'm sorry", and she says,
+"What for?
+       C           
+         G   
+       F (4) 
+I'm yours and that's it, whatever.
+ 
+     F           
+         G  
+  C       
+       Am
+I should not have been gone for so long.
+        C            
+       G 
+   F (2)
+I'm yours and that's it, forever.
+           C            
+       G  
+   F (hold)
+You're mine and that's it, forever.”
+ 
