@@ -1,0 +1,12 @@
+C Dm Em F G G7 Am Bdim 
+C# D#m Fm F# G# G#7 A#m Cdim 
+D Em F#m G A A7 Bm C#dim 
+D# Fm Gm G# A# A#7 Cm Ddim 
+E F#m G#m A B B7 C#m D#dim 
+F Gm Am A# C C7 Dm Edim 
+F# G#m A#m B C# C#7 D#m Fdim 
+G Am Bm C D D7 Em F#dim 
+G# A#m Cm C# D# D#7 Fm Gdim 
+A Bm C#m D E E7 F#m G#dim 
+A# Cm Dm D# F F7 Gm Adim 
+B C#m D#m E F# F#7 G#m A#dim 
